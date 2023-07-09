@@ -24,8 +24,15 @@ However, there have been some questionable UX/UI choices added to the app. Your 
 
 Take some time to use the app and familiarize yourself with how it works. Note what was difficult or confusing.
 
+
 Update the HTML to clarify the content of the app.
 
 Update the CSS to improve the user experience.
 
 > **Note**: You may delete the entire CSS content and start from scratch or edit what is there.
+
+### Comments
+
+Website's purpose was to create a VIP guest List based on user inputted names and Vip status. The application also had the ability to remove and approve VIP status for each person on the guest list, and it was indicated via a star next to the inputted person's name.
+
+Website was missing clear indications of the form input purposes, as well as the purpose of every button on the page. By editing the styling of our website, we were able to fix some of these design flaws, and give more clarity to the purpose and functionality of our website/application
