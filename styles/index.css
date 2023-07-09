@@ -170,7 +170,7 @@ aside.form form button[type="submit"]:hover {
   border: 0;
   border-radius: 5px;
   border-style: solid;
-  color: #fbfbff;
+  color: black;
   font-weight: bold;
   margin-top: 10px;
   padding: 10px 20px;
@@ -194,6 +194,7 @@ aside.form form button[type="submit"]:hover {
 }
 
 .out-vip {
+  text-decoration-color: black;
 }
 
 .in-vip {
@@ -201,7 +202,8 @@ aside.form form button[type="submit"]:hover {
 }
 
 .bounce {
-  color: var(--secondary-highlight);
+  color: black;
+
 }
 .guest-list {
   color: var(--danger);
