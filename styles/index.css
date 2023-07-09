@@ -21,7 +21,7 @@
 }
 
 html {
-  background: var(--primary-background);
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1015%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M1078 452L1456 74' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1016%26quot%3b)' stroke-linecap='round' class='TopRight'%3e%3c/path%3e%3cpath d='M1203 425L1543 85' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M89 440L-160 689' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1016%26quot%3b)' stroke-linecap='round' class='TopRight'%3e%3c/path%3e%3cpath d='M59 90L478 -329' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M11 177L-302 490' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1016%26quot%3b)' stroke-linecap='round' class='TopRight'%3e%3c/path%3e%3cpath d='M723 496L551 668' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1016%26quot%3b)' stroke-linecap='round' class='TopRight'%3e%3c/path%3e%3cpath d='M572 425L757 240' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1016%26quot%3b)' stroke-linecap='round' class='TopRight'%3e%3c/path%3e%3cpath d='M580 14L188 406' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M466 11L727 -250' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1016%26quot%3b)' stroke-linecap='round' class='TopRight'%3e%3c/path%3e%3cpath d='M1114 74L1452 -264' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M1213 51L1383 -119' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M13 488L-219 720' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1016%26quot%3b)' stroke-linecap='round' class='TopRight'%3e%3c/path%3e%3cpath d='M959 182L1304 -163' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1016%26quot%3b)' stroke-linecap='round' class='TopRight'%3e%3c/path%3e%3cpath d='M586 338L348 576' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M1365 338L1506 197' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M997 522L594 925' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M68 45L235 -122' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M1367 390L1051 706' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1016%26quot%3b)' stroke-linecap='round' class='TopRight'%3e%3c/path%3e%3cpath d='M894 152L712 334' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M780 170L1161 -211' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M1232 8L1074 166' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1016%26quot%3b)' stroke-linecap='round' class='TopRight'%3e%3c/path%3e%3cpath d='M1300 288L1676 -88' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1016%26quot%3b)' stroke-linecap='round' class='TopRight'%3e%3c/path%3e%3cpath d='M281 523L672 132' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1016%26quot%3b)' stroke-linecap='round' class='TopRight'%3e%3c/path%3e%3cpath d='M1096 275L893 478' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M1010 242L739 513' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M1288 327L1094 521' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M955 11L1335 -369' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1016%26quot%3b)' stroke-linecap='round' class='TopRight'%3e%3c/path%3e%3cpath d='M1404 442L1679 167' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M975 348L1189 134' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1016%26quot%3b)' stroke-linecap='round' class='TopRight'%3e%3c/path%3e%3cpath d='M866 212L1203 -125' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M128 322L508 -58' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M332 26L-79 437' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M393 266L135 524' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M73 122L-124 319' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M1414 292L1066 640' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1016%26quot%3b)' stroke-linecap='round' class='TopRight'%3e%3c/path%3e%3cpath d='M562 179L145 596' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1016%26quot%3b)' stroke-linecap='round' class='TopRight'%3e%3c/path%3e%3cpath d='M437 149L791 -205' stroke-width='10' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3cpath d='M1348 518L1735 131' stroke-width='6' stroke='url(%26quot%3b%23SvgjsLinearGradient1016%26quot%3b)' stroke-linecap='round' class='TopRight'%3e%3c/path%3e%3cpath d='M363 546L11 898' stroke-width='8' stroke='url(%26quot%3b%23SvgjsLinearGradient1017%26quot%3b)' stroke-linecap='round' class='BottomLeft'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1015'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='0%25' y1='100%25' x2='100%25' y2='0%25' id='SvgjsLinearGradient1016'%3e%3cstop stop-color='rgba(28%2c 83%2c 142%2c 0)' offset='0'%3e%3c/stop%3e%3cstop stop-color='%231c538e' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='100%25' y1='0%25' x2='0%25' y2='100%25' id='SvgjsLinearGradient1017'%3e%3cstop stop-color='rgba(28%2c 83%2c 142%2c 0)' offset='0'%3e%3c/stop%3e%3cstop stop-color='%231c538e' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
   font-family: Helvetica, sans-serif;
   color: var(--primary-color);
 }
@@ -32,7 +32,7 @@ button {
 
 /* Header */
 nav {
-  background: var(--secondary-background);
+  background-image: url(https://images.unsplash.com/photo-1492684223066-81342ee5ff30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80);
   border-bottom: 3px solid var(--primary-highlight);
   padding: 50px;
   text-align: center;
@@ -81,7 +81,7 @@ aside.form form select {
   margin: 5px 0;
   padding: 5px;
   width: 100%;
-  color: aliceblue;
+  color: rgb(4, 37, 66);
 }
 
 aside.form form button,
@@ -91,7 +91,7 @@ button {
   border-radius: 5px;
   border-style: solid;
   font-weight: bold;
-  padding: 10px 50px;
+  padding: 10px 40px;
 }
 
 aside.form form button:hover {
@@ -170,7 +170,7 @@ aside.form form button[type="submit"]:hover {
   border: 0;
   border-radius: 5px;
   border-style: solid;
-  color: #fbfbff;
+  color: #0e0e67;
   font-weight: bold;
   margin-top: 10px;
   padding: 10px 20px;
@@ -191,9 +191,7 @@ aside.form form button[type="submit"]:hover {
   display: flex;
   justify-content: space-between;
   align-items: center;
-}
-
-.out-vip {
+  border-color:#ef476f;
 }
 
 .in-vip {
@@ -209,6 +207,10 @@ aside.form form button[type="submit"]:hover {
 
 /* Responsive */
 @media (max-width: 950px) {
+  aside.form form button,
+  button {
+  margin: 5px;
+}
   .wrapper {
     display: block;
     width: 80%;
