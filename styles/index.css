@@ -43,7 +43,7 @@ nav h1 {
 }
 
 .logo {
-  color: var(--dark-color);
+  color: var(--danger);
   font-weight: bold;
 }
 
@@ -118,7 +118,7 @@ aside.form form button[type="submit"]:hover {
 }
 
 #error li {
-  color: var(--primary-color);
+  color: crimson;
   margin: 5px 0;
 }
 
@@ -166,7 +166,7 @@ aside.form form button[type="submit"]:hover {
 }
 
 .guest-list button {
-  background: var(--danger);
+  background: lightblue;
   border: 0;
   border-radius: 5px;
   border-style: solid;
