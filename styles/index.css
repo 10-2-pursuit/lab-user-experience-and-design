@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
 * {
   margin: 0;
 }
@@ -45,6 +47,7 @@ nav h1 {
 .logo {
   color: var(--danger);
   font-weight: bold;
+  font-family: 'Kaushan Script', cursive;
 }
 
 /* Main section */
